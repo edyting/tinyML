@@ -1,0 +1,19 @@
+# Build artifacts & compiled binaries
+build/
+cmake-out/
+*.pte
+*.elf
+*.o
+*.a
+
+# Python virtual environments & cache
+venv/
+executorch-venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store

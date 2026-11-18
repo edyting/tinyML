@@ -1,0 +1,5 @@
+flatbuffers==24.3.25
+numpy==2.5.5
+packaging==26.3
+sympy==1.14.0
+torch==2.9.0+cpu
